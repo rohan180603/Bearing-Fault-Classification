@@ -68,7 +68,9 @@ The dataset contains three fault classes and does not include a healthy-bearing 
 
 The complete project report is available here:
 
-`Bearing_Fault_Classification_Report.pdf`
+The complete project report is available here:
+
+[Download the Project Report](./Bearing_Fault_Classification_Report.pdf)
 
 ## Tools and Technologies
 
