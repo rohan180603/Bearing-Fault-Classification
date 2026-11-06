@@ -68,7 +68,7 @@ The dataset contains three fault classes and does not include a healthy-bearing 
 
 The complete project report is available here:
 
-`BTP_Bearing_Fault_Classification_Report.pdf`
+`Bearing_Fault_Classification_Report.pdf`
 
 ## Tools and Technologies
 
@@ -86,6 +86,6 @@ The complete project report is available here:
 
 ## Project Context
 
-B.Tech Project  
+Bearing Fault Classification Project  
 Department of Electrical Engineering  
 Indian Institute of Technology Bombay
